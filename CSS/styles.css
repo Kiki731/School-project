@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+*{
+    font-family: 'Poppins',sans-serif;
+}
+.idiot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn,
+.form-control,
+.btn-close {
+    border-radius: 0px !important;
+    outline: none !important;
+}
+
+.btn:focus,
+.form-control:focus,
+.btn-close:focus {
+    outline: none !important;
+    border: none !important;
+    border: none !important;
+}
+
+
+
+.ml {
+    margin-left: 10px;
+}
+
+/* .dropdown-menu{
+    max-width: 30px !important;
+}
+.afro{
+    width: 25px;
+    height: 25px;
+    margin-left: 15px;
+}
+
+
+.island{
+ height: 90vh;
+ max-width: 100%;
+} */
+
+.carousel-img {
+    height: 90vh;
+}
+.burnaboy{
+    color: white;
+    text-decoration: none;
+}
+.burna:hover{
+    color: red;
+}
+.wizkid{
+    margin-top: 30px;
+}
+.welcome h1{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+    font-weight: 400;
+}
+.welcome p{
+    text-align: center;
+
+}
+.Dreams h3{
+    text-align: center;
+    margin-top: 45px;
+}
+.Dreams p{
+    text-align: center;
+}
+.wood{
+    margin-left: 90px;
+    margin-top: 70px;
+}
+.owo{
+    border: 5px solid;
+    border-radius: 10px;
+    margin-left: 40px;
+}   
+.rest{
+    margin-left: 45px;
+}
+.billy{
+    margin-left: 45px;
+    color: grey;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
+.amot{
+    padding-left: 320px;
+}
+.big-energy{
+    margin-top: 40px;
+}
+.vexed{
+    margin-left:  200px;
+}
+.game-slide{
+    margin-top: 60px;
+}
+.game-slide h3{
+    text-align: center;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+.card:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.05); 
+    transition: 0.5s ease-in-out;
+    box-shadow: -3px 5px 6px 6px #e3dede;
+}
+
+.card, .card img {
+    border-radius: 0px !important;
+}
+.card{
+    box-shadow: -2px 4px 0px 0px #e3dede;
+}
+.peak{
+    margin-left: 640px;
+    margin-top: 30px;
+    border-radius: 0px;
+    padding: 7px;
+}
+.peak:hover{
+    transform: scale(1.05);
+    transition: 0.2s ease-in-out;
+}
+.oxlade{
+    background-image: url(/IMG/f23-product-conversion-bg-xl.jpg.adapt.320w.jpg);
+    height: 13vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.airplane:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.gyakie {
+    justify-content: center;
+}
+.Joe{
+    margin-left: 6px;
+    border-radius: 0px;
+}
+.play-section{
+    margin-top: 60px;
+    background-color:#e3dede;
+    height: 80vh;
+    padding-top: 70px;
+}
+.Dami-duro{
+    margin-top: 30px;
+}
+.rambo{
+    margin-top: 290px;
+}
+
